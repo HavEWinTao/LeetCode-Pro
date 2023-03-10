@@ -2,6 +2,7 @@
   <dictionary name="fantastic">
     <words>
       <w>atoi</w>
+      <w>strs</w>
     </words>
   </dictionary>
 </component>

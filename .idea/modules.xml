@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/Sort/Sort.iml" filepath="$PROJECT_DIR$/Sort/Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tencent/Tencent.iml" filepath="$PROJECT_DIR$/Tencent/Tencent.iml" />
       <module fileurl="file://$PROJECT_DIR$/Union Find/Union Find.iml" filepath="$PROJECT_DIR$/Union Find/Union Find.iml" />
-      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
     </modules>
   </component>
 </project>
